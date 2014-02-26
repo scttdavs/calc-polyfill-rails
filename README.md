@@ -1,6 +1,6 @@
 # Calc::Polyfill::Rails
 
-TODO: Write a gem description
+This is a javascript poly fill for the CSS3 calc-function for the Rails pipeline. Original javasript plugin by closingtag (Robert Weber)
 
 ## Installation
 
